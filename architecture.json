@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_minimalist_nature_civilization",
+  "title": "The Measure of the Moor",
+  "tagline": "When a world of systems meets a life of necessity, the only true measure is what remains unspoken.",
+  "target_words": 70000,
+  "actual_words": 69674,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Ecology of Silence",
+    "Legibility vs. Lived Experience",
+    "Minimalism as Resilience",
+    "The Violence of Improvement"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hinge Hour",
+      "words": 2900
+    },
+    {
+      "ch": 2,
+      "title": "A Different Pattern",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Listening Silence",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Architect's Gaze",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "Numbers on the Quiet",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Returning",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "The Blank Spot",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "The Sharpest Tool",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "Sod and Stone",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Path of the Crab",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "The Recalibration's Shadow",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "A Fact, Not a Problem",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "The Proposal",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "The Treatise in the Pocket",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Unspooling Smoke",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "The Consolidation Tide",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Function of Beauty",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Stitch in the Fabric",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Dark Smudge on the Water",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Stark Ecology",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The Perfectible Settlement",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Necessary Thread",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Residual Warmth",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "What the Land Answers",
+      "words": 2900
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from a hyper-efficient, sensor-monitored Enclave spends their first night in the bothy, detailing their sensory overload and slow attunement to a different rhythm.",
+      "Compose a series of journal entries from Alistair Coe, the planner, as his certainty about 'improvement' erodes over weeks of observation, focusing on a single, inexplicable detail that won't fit his models.",
+      "Imagine a dialogue between Eilidh and a young engineer sent to install a water turbine. She doesn't argue against it, but asks a series of simple, practical questions about maintenance, sourcing parts, and long-term effects that reveal the proposal's fragility.",
+      "Write the myth or local story Ruaridh would tell about the 'hinge hour'—the time between day and night—and how it relates to the book's central conflict between change and permanence."
+    ],
+    "technical": [
+      "Design a 'Resilience Index' system that quantifies not efficiency or output, but stability, redundancy, and low-entropy maintenance—a tool to measure the strength of Eilidh's way of life on its own terms.",
+      "Create a procedural generator for 'functional beauty': an algorithm that produces descriptions of tools, shelters, or objects where form is derived strictly from documented material constraints and ergonomic need, mirroring the novel's aesthetic."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Nan Shepherd (The Living Mountain)",
+      "Robinson Jeffers (Philosophy of Inhumanism)",
+      "James C. Scott (Seeing Like a State)",
+      "Miyazaki Hayao (Nausicaä of the Valley of the Wind)"
+    ]
+  },
+  "cover_prompt": "A solitary figure stands on a vast, windswept moor at dusk, their back to the viewer, facing a distant geometric city of crystalline spires and harsh, angular light, a single, resilient sapling clinging to the rocky ground at their feet, its roots gripping the ancient stone, [Detailed Scene & Context: the scene embodies the tension between untamed nature and imposed order, with heather and moss reclaiming faint geometric patterns etched into the peat, a discarded, ornate brass surveying tool lying half-sunk in a dark pool, the air thick with mist and unspoken history], [Artistic Style & Medium: in the atmospheric and minimalist style of Andrew Wyeth's landscapes, combined with the stark, philosophical clarity of Vilhelm Hammershøi's interiors, rendered in textured oil painting with subtle impasto and delicate glazes], [Composition & Camera: book cover framing, a centered but asymmetrical composition where the small human form anchors the bottom third against the immense, brooding sky, shot from a low angle to emphasize the moor's enduring presence and the city's alien imposition], [Lighting & Color Palette: dramatic chiaroscuro lighting with a cold, electric blue light from the distant city clashing with the last warm, muted gold of a setting sun, a palette of desaturated umbers, slate greys, mossy greens, and deep peat black, punctuated by that single unnatural blue], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
