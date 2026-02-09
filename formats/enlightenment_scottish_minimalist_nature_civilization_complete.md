@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The peat-cutter’s blade bit into the black earth, severing a root that had fed a clan for a century. Eilidh’s hand, calloused from the loom, now measured the cut’s depth against the new Edinburgh treatise in her pocket. To improve the land, the book said. The root bled dark water, and the moor seemed to hold its breath.
@@ -92,6 +94,8 @@ He banked the fire for the night, covering the red heart with a blanket of grey 
 Sleep, when it came, was not uneasy. It was the deep, animal rest of one who has worked with her body and whose mind, though wary, was not yet afraid. The fear, she knew, would be a luxury. A waste of energy. What was coming would come. Their task was to meet it as they met the weather: not by hiding under it, but by being in it, understanding its nature, and wearing the right coat.
 
 Outside, the rain found its rhythm on the stones. The hill held them both, sleeping and awake, in its ancient, indifferent palm.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -250,6 +254,8 @@ Ruaridh came to stand beside her. He did not speak for a long time.
 Ruaridh put a hand on her shoulder. It was warm, heavy, real. “Then we will be here. And we will say no again. As many times as it takes. A stone does not move because the wind suggests it.”
 
 But Eilidh, looking at the retreating figure of Alistair Coe, knew that some winds did not push. They eroded. And erosion was a patient, relentless kind of force.
+
+# Chapter 3
 
 ## CHAPTER 3
 
